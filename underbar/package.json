@@ -1,0 +1,20 @@
+{
+  "name": "intPrep",
+  "version": "1.0.1",
+  "description": "Fun prep for interviews",
+  "main": "client/index.html",
+  "scripts": {
+    "test": "echo 'Error: no test specified'",
+    "start": "open Test.html"
+  },
+  "dependencies": {
+    "cardboard": "^3.0.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "sinon": "^2.1.0",
+    "sinon-chai": "^2.9.0"
+  },
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "https://github.com/abasalilov"
+}
